@@ -46,6 +46,9 @@ All images used in this project are royalty-free and sourced from:
 - Include a testimonial or quote section
 - Implement a call-to-action (CTA) and footer section for completeness
 
+## Live Preview
+https://drheaa.github.io/odin-landing-page/
+
 ## Author
 
 Built by Devanshi Rhea Aucharaz as part of [The Odin Project](https://www.theodinproject.com/) – Foundations curriculum.
